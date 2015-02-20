@@ -1,6 +1,6 @@
 {
   "name": "fj-yc",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The Applicative Order Y Combinator.",
   "main": "index.js",
   "scripts": {
