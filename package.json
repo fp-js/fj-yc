@@ -1,0 +1,37 @@
+{
+  "name": "fj-yc",
+  "version": "0.0.0",
+  "description": "The Applicative Order Y Combinator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fp-js/fj-yc.git"
+  },
+  "keywords": [
+    "fp-js",
+    "fp",
+    "yc",
+    "Y Combinator"
+  ],
+  "contributors": [
+    "hemanth.hm <hemanth.hm@gmail.com> (http://www.h3manth.com)",
+    "stoeffel <schtoeffel@gmail.com> (http://www.schtoeffel.ch)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fp-js/fj-yc/issues"
+  },
+  "homepage": "https://github.com/fp-js/fj-yc",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-6to5": "^3.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-run": "^1.6.6",
+    "gulp-sourcemaps": "^1.3.0",
+    "gulp-watch": "^4.1.0",
+    "mochify": "^2.2.0"
+  }
+}
